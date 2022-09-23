@@ -1,2 +1,3 @@
 # ExercicioemC
-Exercícios feito para universidade em linguagem C++
+Exercícios feito para universidade em linguagem C
+
